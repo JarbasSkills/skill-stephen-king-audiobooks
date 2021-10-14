@@ -1,0 +1,21 @@
+{
+  "name": "Stephen King AudioBooks Skill",
+  "skillname": "skill-stephen-king-audiobooks",
+  "authorname": "JarbasSkills",
+  "foldername": "",
+  "url": "https://github.com/JarbasSkills/skill-stephen-king-audiobooks",
+  "branch": "dev",
+  "desktopFile": false,
+  "warning": "",
+  "systemDeps": false,
+  "platforms": [
+    "arm",
+    "arm64",
+    "i386",
+    "x86_64",
+    "ia64"
+  ],
+  "examples": [
+    "read dark tower by stephen king"
+  ]
+}
