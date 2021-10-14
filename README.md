@@ -4,9 +4,10 @@ Stephen King Audio Books skill for OCP
 
 ## About
 
-search www.loyalbooks.com by voice!
+search https://stephenkingaudiobooks.com/ by voice!
 
 ![](./gui.png)
+![](./gui2.png)
 
 ## Examples
 
