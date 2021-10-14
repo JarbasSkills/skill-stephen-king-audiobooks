@@ -10,7 +10,7 @@ search www.loyalbooks.com by voice!
 
 ## Examples
 
-* "read lovecraft"
+* "read dark tower by stephen king"
 
 # Platform support
 
