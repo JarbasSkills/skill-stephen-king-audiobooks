@@ -36,12 +36,15 @@ search https://stephenkingaudiobooks.com/ by voice!
 - `version` - link to release/commit of platform repo where this was tested
 
 ## Credits
+
 JarbasAl
 
 ## Category
+
 **Entertainment**
 
 ## Tags
+
 - audiobooks
 - librivox
 - common play
